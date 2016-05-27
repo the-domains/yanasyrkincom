@@ -1,0 +1,14 @@
+layout_spectrum: 0.5960209148470312
+typography_spectrum: 0.23859419324435294
+color:
+  brandStrength: 0.8772350908257067
+  lightness: 0.4825622246135026
+  saturation: 0.7837885688059032
+  rhythmicContrast: 0.7395109469071031
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: yanasyrkin.com
