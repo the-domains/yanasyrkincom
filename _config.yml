@@ -1,7 +1,7 @@
 name: yana syrkin
 favicon: null
-layout_spectrum: 0.5960209148470312
-typography_spectrum: 0.23859419324435294
+layout_spectrum: 0.7300717872567475
+typography_spectrum: 0.15390909905545413
 title: yana syrkin
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8772350908257067
-  lightness: 0.4825622246135026
-  saturation: 0.7837885688059032
-  rhythmicContrast: 0.7395109469071031
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.020505494438111782
+  lightness: 0.5230885273776948
+  saturation: 0.25609550601802766
+  rhythmicContrast: 0.41518240864388645
 purpose: []
