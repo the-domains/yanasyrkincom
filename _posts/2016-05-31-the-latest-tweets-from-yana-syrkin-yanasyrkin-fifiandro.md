@@ -45,11 +45,11 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/YanaSyrkin'
-datePublished: '2016-05-31T21:55:04.222Z'
-dateModified: '2016-05-31T21:54:45.574Z'
+datePublished: '2016-05-31T21:55:24.420Z'
+dateModified: '2016-05-31T21:55:24.097Z'
 title: ''
-starred: false
 sourcePath: _posts/2016-05-31-the-latest-tweets-from-yana-syrkin-yanasyrkin-fifiandro.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
