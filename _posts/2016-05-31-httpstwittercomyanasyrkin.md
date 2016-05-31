@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://twitter.com/YanaSyrkin'
-datePublished: '2016-05-31T23:17:46.330Z'
-dateModified: '2016-05-31T23:17:46.075Z'
-authors: []
-publisher: null
+datePublished: '2016-05-31T23:22:55.171Z'
+dateModified: '2016-05-31T23:22:33.915Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-05-31-httpstwittercomyanasyrkin.md
+authors: []
+publisher: null
+starred: true
 url: httpstwittercomyanasyrkin/index.html
 _type: Article
 
