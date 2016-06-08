@@ -4,8 +4,15 @@
         <description><![CDATA[costume designer + fairy dogmother]]></description>
         <link>http://yanasyrkin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 05:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 05:07:29 GMT</lastBuildDate>
         <atom:link href="http://yanasyrkin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[how do i look?]]></title>
+            <description><![CDATA[<article><h1>how do i look?</h1><p>yayyy ohhh my made it on the grid xoxo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ff4592189b6c596df9deb73a9b09e7caec8313d.jpg"></article>]]></description>
+            <link>http://yanasyrkin.com/yayyy-ohhh-my-on-the-grid-xoxo/index.html</link>
+            <guid isPermaLink="false">b860d887-b325-46de-96d8-795c034c8a76</guid>
+            <pubDate>Wed, 08 Jun 2016 05:07:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Every morning I look up & wonder why the sky is pink ; )]]></title>
             <description><![CDATA[<article><h1>Every morning I look up & wonder why the sky is pink ; )</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8a8c548-b67e-4145-aee1-1bf48999bc11.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>http://yanasyrkin.com/9dfa95fb-e009-49c3-8861-a0e20ed77e95/index.html</link>
             <guid isPermaLink="false">9dfa95fb-e009-49c3-8861-a0e20ed77e95</guid>
             <pubDate>Wed, 01 Jun 2016 05:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/470ab327-d7b6-40fc-bcf2-f0570758cb11.jpg">]]></description>
-            <link>http://yanasyrkin.com/yayyy-ohhh-my-on-the-grid-xoxo/index.html</link>
-            <guid isPermaLink="false">b860d887-b325-46de-96d8-795c034c8a76</guid>
-            <pubDate>Tue, 31 May 2016 22:17:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
