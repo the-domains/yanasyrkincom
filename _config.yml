@@ -1,8 +1,7 @@
+name: yana syrkin
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/daf87189-231c-4bc8-82fa-46df1ee7a73b.jpg'
+layout_spectrum: 0.9170213
 typography_spectrum: 0.1539090990554541
-opengraph:
-  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1db6479-6ddc-434d-a3c2-cadc66eb1ee4.jpg'
-  type: null
-  appId: null
 collections:
   - index:
       path: /
@@ -19,30 +18,31 @@ author:
   name: Yana Syrkin
   email: yana.syrkin@gmail.com
   url: 'http://yanasyrkin.com'
-layout_spectrum: 0.9170213
 title: costume designer + fairy dogmother
-purpose: []
+logo: null
+content_rating:
+  adult: false
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-78630107-1
+  facebook: '577111065790019'
+  twitter: null
+opengraph:
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1db6479-6ddc-434d-a3c2-cadc66eb1ee4.jpg'
+  type: null
+  appId: null
 color:
-  saturation: 0.2560955060180277
-  brandStrength: 0.02050549443811178
-  rhythmicContrast: 0.4151824086438864
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+  brandStrength: 0.02050549443811178
   lightness: 0.5230885273776948
-cta:
-  bucket: null
-  version: null
-  domain: null
-logo: null
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/daf87189-231c-4bc8-82fa-46df1ee7a73b.jpg'
-content_rating:
-  adult: false
-analytics:
-  twitter: null
-  google: UA-78630107-1
-  facebook: '577111065790019'
-name: yana syrkin
+  saturation: 0.2560955060180277
+  rhythmicContrast: 0.4151824086438864
+purpose: []
