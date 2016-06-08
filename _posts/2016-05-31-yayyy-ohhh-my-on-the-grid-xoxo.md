@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-06-08T05:07:20.450Z'
-sourcePath: _posts/2016-05-31-yayyy-ohhh-my-on-the-grid-xoxo.md
 inFeed: true
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-05-31T23:13:30.267Z'
-title: how do i look?
-publisher: null
-description: yayyy ohhh my made it on the grid xoxo
-inLanguage: null
 inNav: false
+inLanguage: null
+keywords: []
+description: yayyy ohhh my made it on the grid xoxo
+datePublished: '2016-06-08T05:10:03.942Z'
+dateModified: '2016-06-08T05:10:03.413Z'
+sourcePath: _posts/2016-05-31-yayyy-ohhh-my-on-the-grid-xoxo.md
+author: []
+title: how do i look?
+authors: []
+publisher: null
 starred: false
 url: yayyy-ohhh-my-on-the-grid-xoxo/index.html
 _type: Article
