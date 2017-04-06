@@ -2,7 +2,10 @@ name: yana syrkin
 analytics:
   facebook: '577111065790019'
   google: UA-78630107-1
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:info@yanasyrkin.com'
+    label: Contact
 github: true
 description: custom designer + fairy dogmother
 author:
