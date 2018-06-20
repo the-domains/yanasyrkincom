@@ -1,4 +1,4 @@
-name: yana syrkin
+name: '#yanasyrkin'
 analytics:
   facebook: '577111065790019'
   google: UA-78630107-1
@@ -22,12 +22,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.9170213
 color:
