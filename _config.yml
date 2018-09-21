@@ -36,6 +36,9 @@ navigation:
   - name: Creator of Pet Couture
     id: be3346ae-a36c-4aaf-9a35-bc41fc2d72e8
     type: content
+  - name: Hollywood Custom Designer
+    id: 2b7159d6-43c1-41bd-a85a-103254d34227
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/daf87189-231c-4bc8-82fa-46df1ee7a73b.jpg
 collections:
