@@ -24,15 +24,16 @@ description: >-
   (1998).
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.imdb.com/name/nm0843492/'
 title: Yana Syrkin
-datePublished: '2016-06-13T23:11:29.587Z'
-dateModified: '2016-06-13T23:08:38.245Z'
-starred: false
+datePublished: '2018-09-21T23:33:44.425Z'
+dateModified: '2018-09-21T23:33:43.563Z'
 sourcePath: _posts/2016-06-13-yana-syrkin.md
+hasPage: true
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-06-13T23:11:29.587Z'
+url: yana-syrkin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
