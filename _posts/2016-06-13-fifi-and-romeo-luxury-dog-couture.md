@@ -13,17 +13,18 @@ description: >-
   accessories for two decades; hand-made at our flagship boutique here in
   Hollywood!
 app_links: []
-isBasedOnUrl: 'https://fifiandromeo.com/'
 title: Fifi & Romeo Luxury Dog Couture
-datePublished: '2016-06-13T23:11:26.394Z'
-dateModified: '2016-06-13T23:10:01.986Z'
-starred: false
+datePublished: '2018-09-21T23:27:42.113Z'
+dateModified: '2018-09-21T23:27:40.799Z'
 sourcePath: _posts/2016-06-13-fifi-and-romeo-luxury-dog-couture.md
+hasPage: true
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-06-13T23:11:26.394Z'
+url: fifi-and-romeo-luxury-dog-couture/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Fifi &amp; Romeo Luxury Dog Couture</h1><p>Fifi &amp; Romeo is thee first lifestyle brand famous for pet apparel &amp; accessories for two decades; hand-made at our flagship boutique here in Hollywood!</p><img src="https://cdn.shopify.com/s/files/1/1173/7460/t/4/assets/slideshow_1.jpg?10775600672275882073" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3830b6a8c29ca70b09b197cd7fbf2e92dad7e17c.jpg" /><h1>Fifi &amp; Romeo Luxury Dog Couture</h1><p>Fifi &amp; Romeo is thee first lifestyle brand famous for pet apparel &amp; accessories for two decades; hand-made at our flagship boutique here in Hollywood!</p></article>
