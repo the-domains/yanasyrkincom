@@ -33,6 +33,9 @@ navigation:
   - name: About/Contact
     id: 1e304668-14d6-44b2-83ca-3471ba0f5aea
     type: content
+  - name: Creator of Pet Couture
+    id: be3346ae-a36c-4aaf-9a35-bc41fc2d72e8
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/daf87189-231c-4bc8-82fa-46df1ee7a73b.jpg
 collections:
