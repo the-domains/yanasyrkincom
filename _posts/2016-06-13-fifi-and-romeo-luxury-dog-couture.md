@@ -14,8 +14,8 @@ description: >-
   Hollywood!
 app_links: []
 title: 'Fifi & Romeo '
-datePublished: '2018-09-21T23:31:03.414Z'
-dateModified: '2018-09-21T23:31:01.881Z'
+datePublished: '2018-09-21T23:32:13.338Z'
+dateModified: '2018-09-21T23:32:12.195Z'
 sourcePath: _posts/2016-06-13-fifi-and-romeo-luxury-dog-couture.md
 hasPage: true
 via: {}
