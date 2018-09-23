@@ -8,14 +8,11 @@ publisher:
     https://cdn.shopify.com/s/files/1/1173/7460/t/4/assets/favicon.png?10775600672275882073
   domain: fifiandromeo.com
 keywords: []
-description: >-
-  Fifi & Romeo is thee first lifestyle brand famous for pet apparel &
-  accessories for two decades; hand-made at our flagship boutique here in
-  Hollywood!
+description: ''
 app_links: []
-title: 'Fifi & Romeo '
-datePublished: '2018-09-21T23:32:13.338Z'
-dateModified: '2018-09-21T23:32:12.195Z'
+title: Fifi & Romeo®️
+datePublished: '2018-09-23T05:17:02.534Z'
+dateModified: '2018-09-23T05:17:01.696Z'
 sourcePath: _posts/2016-06-13-fifi-and-romeo-luxury-dog-couture.md
 hasPage: true
 via: {}
@@ -27,4 +24,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3830b6a8c29ca70b09b197cd7fbf2e92dad7e17c.jpg" /><h1>Fifi &amp; Romeo </h1><p>Fifi &amp; Romeo is thee first lifestyle brand famous for pet apparel &amp; accessories for two decades; hand-made at our flagship boutique here in Hollywood!</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3830b6a8c29ca70b09b197cd7fbf2e92dad7e17c.jpg" /><h1>Fifi &amp; Romeo®️</h1></article>
