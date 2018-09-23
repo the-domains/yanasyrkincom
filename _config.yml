@@ -32,7 +32,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: About/Contact
+  - name: About
     id: 1e304668-14d6-44b2-83ca-3471ba0f5aea
     type: content
   - name: Creator of Pet Couture
