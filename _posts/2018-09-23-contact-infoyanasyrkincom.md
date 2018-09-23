@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: 'Contact: info@yanasyrkin.com'
-dateModified: '2018-09-23T05:31:05.961Z'
-datePublished: '2018-09-23T05:31:06.633Z'
+dateModified: '2018-09-23T05:36:05.625Z'
+datePublished: '2018-09-23T05:36:06.227Z'
 title: ''
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-09-23T05:30:18.269Z'
 url: contact-infoyanasyrkincom/index.html
-_type: Article
+_type: Blurb
 
 ---
 Contact: info@yanasyrkin.com
