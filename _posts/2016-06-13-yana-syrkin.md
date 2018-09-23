@@ -21,9 +21,9 @@ keywords:
 description: 'Yana Syrkin, Costume Designer'
 inLanguage: en
 app_links: []
-title: Yana Syrkin
-datePublished: '2018-09-23T05:14:15.888Z'
-dateModified: '2018-09-23T05:14:14.627Z'
+title: ''
+datePublished: '2018-09-23T05:24:16.256Z'
+dateModified: '2018-09-23T05:24:15.368Z'
 sourcePath: _posts/2016-06-13-yana-syrkin.md
 hasPage: true
 via: {}
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2faa9366907e41a1753e8ef0fe6d0c6ffa109513.png" /><h1>Yana Syrkin</h1><p>Yana Syrkin, Costume Designer</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2faa9366907e41a1753e8ef0fe6d0c6ffa109513.png" /><p>Yana Syrkin, Costume Designer</p></article>
