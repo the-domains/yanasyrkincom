@@ -1,5 +1,6 @@
-layout_spectrum: 0.7951798767359504
 typography_spectrum: 0.8405327894486081
+content_rating:
+  adult: false
 color:
   lightness: 0.6396777199149722
   brandColors:
@@ -11,14 +12,11 @@ color:
   saturation: 0.5597341192171605
   brandStrength: 0.29874047643864654
   rhythmicContrast: 0.1392169610912552
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1db6479-6ddc-434d-a3c2-cadc66eb1ee4.jpg
+layout_spectrum: 0.7951798767359504
 analytics:
   facebook: '577111065790019'
   google: UA-78630107-1
@@ -41,6 +39,9 @@ navigation:
   - name: Hollywood Custom Designer
     id: 2b7159d6-43c1-41bd-a85a-103254d34227
     type: content
+  - name: Contact
+    id: 2bf0a582-bdec-4bd6-b66e-658362df2c4c
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/daf87189-231c-4bc8-82fa-46df1ee7a73b.jpg
 collections:
@@ -57,5 +58,7 @@ collections:
       path: '/:title/'
 title: ''
 content: []
+coverPrefs:
+  filter: false
 description: ''
 purpose: []
